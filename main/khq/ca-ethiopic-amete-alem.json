@@ -3,8 +3,8 @@
     "khq": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "khq"
       },
@@ -230,12 +230,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Adduha",
+                  "pm": "Aluula"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Adduha",
+                  "pm": "Aluula"
                 },
                 "wide": {
                   "am": "Adduha",
@@ -244,16 +244,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Adduha",
+                  "pm": "Aluula"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Adduha",
+                  "pm": "Aluula"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Adduha",
+                  "pm": "Aluula"
                 }
               }
             },

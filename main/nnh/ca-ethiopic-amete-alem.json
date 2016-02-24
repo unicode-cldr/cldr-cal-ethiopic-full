@@ -3,8 +3,8 @@
     "nnh": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11967 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "nnh"
       },
@@ -230,12 +230,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "mbaʼámbaʼ",
+                  "pm": "ncwònzém"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "mbaʼámbaʼ",
+                  "pm": "ncwònzém"
                 },
                 "wide": {
                   "am": "mbaʼámbaʼ",
@@ -244,16 +244,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "mbaʼámbaʼ",
+                  "pm": "ncwònzém"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "mbaʼámbaʼ",
+                  "pm": "ncwònzém"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "mbaʼámbaʼ",
+                  "pm": "ncwònzém"
                 }
               }
             },

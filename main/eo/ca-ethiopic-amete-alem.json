@@ -3,8 +3,8 @@
     "eo": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12354 $",
+          "_cldrVersion": "29"
         },
         "language": "eo"
       },
@@ -230,12 +230,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "atm",
+                  "pm": "ptm"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "atm",
+                  "pm": "ptm"
                 },
                 "wide": {
                   "am": "atm",
@@ -244,16 +244,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "atm",
+                  "pm": "ptm"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "atm",
+                  "pm": "ptm"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "atm",
+                  "pm": "ptm"
                 }
               }
             },

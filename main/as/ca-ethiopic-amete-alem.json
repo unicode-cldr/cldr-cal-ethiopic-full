@@ -3,8 +3,8 @@
     "as": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11994 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "as"
       },
@@ -230,12 +230,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "পূৰ্বাহ্ণ",
+                  "pm": "অপৰাহ্ণ"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "পূৰ্বাহ্ণ",
+                  "pm": "অপৰাহ্ণ"
                 },
                 "wide": {
                   "am": "পূৰ্বাহ্ণ",
@@ -244,16 +244,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "পূৰ্বাহ্ণ",
+                  "pm": "অপৰাহ্ণ"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "পূৰ্বাহ্ণ",
+                  "pm": "অপৰাহ্ণ"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "পূৰ্বাহ্ণ",
+                  "pm": "অপৰাহ্ণ"
                 }
               }
             },

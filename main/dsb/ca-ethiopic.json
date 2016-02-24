@@ -3,8 +3,8 @@
     "dsb": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "dsb"
       },
@@ -230,8 +230,8 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "dopołdnja",
+                  "pm": "wótpołdnja"
                 },
                 "narrow": {
                   "am": "dop.",
@@ -244,16 +244,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "dopołdnja",
+                  "pm": "wótpołdnja"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "dopołdnja",
+                  "pm": "wótpołdnja"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "dopołdnja",
+                  "pm": "wótpołdnja"
                 }
               }
             },
