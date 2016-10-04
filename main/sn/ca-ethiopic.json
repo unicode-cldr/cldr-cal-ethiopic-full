@@ -3,8 +3,8 @@
     "sn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12128 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12798 $",
+          "_cldrVersion": "30"
         },
         "language": "sn"
       },
@@ -112,10 +112,10 @@
                 "abbreviated": {
                   "sun": "Svo",
                   "mon": "Muv",
-                  "tue": "Chip",
-                  "wed": "Chit",
-                  "thu": "Chin",
-                  "fri": "Chis",
+                  "tue": "Chp",
+                  "wed": "Cht",
+                  "thu": "Chn",
+                  "fri": "Chs",
                   "sat": "Mug"
                 },
                 "narrow": {
@@ -128,13 +128,13 @@
                   "sat": "M"
                 },
                 "short": {
-                  "sun": "Svo",
-                  "mon": "Muv",
-                  "tue": "Chip",
-                  "wed": "Chit",
-                  "thu": "Chin",
-                  "fri": "Chis",
-                  "sat": "Mug"
+                  "sun": "Sv",
+                  "mon": "Mu",
+                  "tue": "Cp",
+                  "wed": "Ct",
+                  "thu": "Cn",
+                  "fri": "Cs",
+                  "sat": "Mg"
                 },
                 "wide": {
                   "sun": "Svondo",
@@ -150,10 +150,10 @@
                 "abbreviated": {
                   "sun": "Svo",
                   "mon": "Muv",
-                  "tue": "Chip",
-                  "wed": "Chit",
-                  "thu": "Chin",
-                  "fri": "Chis",
+                  "tue": "Chp",
+                  "wed": "Cht",
+                  "thu": "Chn",
+                  "fri": "Chs",
                   "sat": "Mug"
                 },
                 "narrow": {
@@ -166,13 +166,13 @@
                   "sat": "M"
                 },
                 "short": {
-                  "sun": "Svo",
-                  "mon": "Muv",
-                  "tue": "Chip",
-                  "wed": "Chit",
-                  "thu": "Chin",
-                  "fri": "Chis",
-                  "sat": "Mug"
+                  "sun": "Sv",
+                  "mon": "Mu",
+                  "tue": "Cp",
+                  "wed": "Ct",
+                  "thu": "Cn",
+                  "fri": "Cs",
+                  "sat": "Mg"
                 },
                 "wide": {
                   "sun": "Svondo",
@@ -234,8 +234,8 @@
                   "pm": "PM"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "a",
+                  "pm": "p"
                 },
                 "wide": {
                   "am": "AM",
@@ -278,10 +278,10 @@
               "short": "dd/MM/y GGGGG"
             },
             "timeFormats": {
-              "full": "h:mm:ss a zzzz",
-              "long": "h:mm:ss a z",
-              "medium": "h:mm:ss a",
-              "short": "h:mm a"
+              "full": "HH:mm:ss zzzz",
+              "long": "HH:mm:ss z",
+              "medium": "HH:mm:ss",
+              "short": "HH:mm"
             },
             "dateTimeFormats": {
               "full": "{1} {0}",

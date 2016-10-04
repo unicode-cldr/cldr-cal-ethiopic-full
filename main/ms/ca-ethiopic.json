@@ -3,8 +3,8 @@
     "ms": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12416 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ms"
       },
@@ -232,7 +232,7 @@
                 "abbreviated": {
                   "am": "PG",
                   "pm": "PTG",
-                  "morning1": "tengah malam",
+                  "morning1": "pagi",
                   "morning2": "pagi",
                   "afternoon1": "tengah hari",
                   "evening1": "petang",
@@ -241,7 +241,7 @@
                 "narrow": {
                   "am": "a",
                   "pm": "p",
-                  "morning1": "tengah malam",
+                  "morning1": "pagi",
                   "morning2": "pagi",
                   "afternoon1": "tengah hari",
                   "evening1": "petang",
@@ -250,7 +250,7 @@
                 "wide": {
                   "am": "PG",
                   "pm": "PTG",
-                  "morning1": "tengah malam",
+                  "morning1": "pagi",
                   "morning2": "pagi",
                   "afternoon1": "tengah hari",
                   "evening1": "petang",
@@ -270,7 +270,7 @@
                 "narrow": {
                   "am": "a",
                   "pm": "p",
-                  "morning1": "tengah malam",
+                  "morning1": "pagi",
                   "morning2": "pagi",
                   "afternoon1": "tengah hari",
                   "evening1": "petang",

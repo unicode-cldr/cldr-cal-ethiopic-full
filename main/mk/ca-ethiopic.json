@@ -3,8 +3,8 @@
     "mk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12411 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "mk"
       },
@@ -130,7 +130,7 @@
                 "short": {
                   "sun": "нед.",
                   "mon": "пон.",
-                  "tue": "вт.",
+                  "tue": "вто.",
                   "wed": "сре.",
                   "thu": "чет.",
                   "fri": "пет.",
@@ -150,7 +150,7 @@
                 "abbreviated": {
                   "sun": "нед.",
                   "mon": "пон.",
-                  "tue": "вт.",
+                  "tue": "вто.",
                   "wed": "сре.",
                   "thu": "чет.",
                   "fri": "пет.",
@@ -231,30 +231,30 @@
               "format": {
                 "abbreviated": {
                   "midnight": "полноќ",
-                  "am": "претпладне",
-                  "noon": "на пладне",
-                  "pm": "попладне",
+                  "am": "претпл.",
+                  "noon": "напладне",
+                  "pm": "попл.",
                   "morning1": "наутро",
-                  "morning2": "претпладне",
-                  "afternoon1": "попладне",
+                  "morning2": "претпл.",
+                  "afternoon1": "попл.",
                   "evening1": "навечер",
                   "night1": "ноќе"
                 },
                 "narrow": {
                   "midnight": "полн.",
-                  "am": "прет.",
+                  "am": "претпл.",
                   "noon": "напл.",
                   "pm": "попл.",
                   "morning1": "утро",
-                  "morning2": "прет.",
+                  "morning2": "претпл.",
                   "afternoon1": "попл.",
                   "evening1": "веч.",
-                  "night1": "полн."
+                  "night1": "ноќе"
                 },
                 "wide": {
                   "midnight": "полноќ",
                   "am": "претпладне",
-                  "noon": "на пладне",
+                  "noon": "напладне",
                   "pm": "попладне",
                   "morning1": "наутро",
                   "morning2": "претпладне",
@@ -266,18 +266,18 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "полноќ",
-                  "am": "претпладне",
-                  "noon": "пладне",
-                  "pm": "попладне",
+                  "am": "претпл.",
+                  "noon": "напладне",
+                  "pm": "попл.",
                   "morning1": "наутро",
-                  "morning2": "претпладне",
-                  "afternoon1": "попладне",
+                  "morning2": "претпл.",
+                  "afternoon1": "попл.",
                   "evening1": "навечер",
                   "night1": "по полноќ"
                 },
                 "narrow": {
                   "midnight": "полноќ",
-                  "am": "прет.",
+                  "am": "претпл.",
                   "noon": "пладне",
                   "pm": "попл.",
                   "morning1": "наутро",
@@ -366,8 +366,8 @@
                 "yyyyMMMd": "dd MMM y 'г'. G",
                 "yyyyMMMEd": "E, dd MMM y 'г'. G",
                 "yyyyMMMM": "MMMM y 'г'. G",
-                "yyyyQQQ": "G y QQQ",
-                "yyyyQQQQ": "G y QQQQ"
+                "yyyyQQQ": "QQQ y G",
+                "yyyyQQQQ": "QQQ y G"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

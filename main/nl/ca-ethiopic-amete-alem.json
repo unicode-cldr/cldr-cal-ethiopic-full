@@ -3,8 +3,8 @@
     "nl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12381 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "nl"
       },
@@ -242,19 +242,19 @@
                   "midnight": "middernacht",
                   "am": "a.m.",
                   "pm": "p.m.",
-                  "morning1": "ochtend",
-                  "afternoon1": "middag",
-                  "evening1": "avond",
-                  "night1": "nacht"
+                  "morning1": "‘s ochtends",
+                  "afternoon1": "‘s middags",
+                  "evening1": "‘s avonds",
+                  "night1": "‘s nachts"
                 },
                 "wide": {
                   "midnight": "middernacht",
                   "am": "a.m.",
                   "pm": "p.m.",
-                  "morning1": "ochtend",
-                  "afternoon1": "middag",
-                  "evening1": "avond",
-                  "night1": "nacht"
+                  "morning1": "‘s ochtends",
+                  "afternoon1": "‘s middags",
+                  "evening1": "‘s avonds",
+                  "night1": "‘s nachts"
                 }
               },
               "stand-alone": {

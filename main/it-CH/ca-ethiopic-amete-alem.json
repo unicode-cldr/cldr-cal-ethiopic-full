@@ -3,8 +3,8 @@
     "it-CH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12415 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "it",
         "territory": "CH"
@@ -176,13 +176,13 @@
                   "sat": "sab"
                 },
                 "wide": {
-                  "sun": "Domenica",
-                  "mon": "Lunedì",
-                  "tue": "Martedì",
-                  "wed": "Mercoledì",
-                  "thu": "Giovedì",
-                  "fri": "Venerdì",
-                  "sat": "Sabato"
+                  "sun": "domenica",
+                  "mon": "lunedì",
+                  "tue": "martedì",
+                  "wed": "mercoledì",
+                  "thu": "giovedì",
+                  "fri": "venerdì",
+                  "sat": "sabato"
                 }
               }
             },
@@ -235,10 +235,10 @@
                   "am": "AM",
                   "noon": "mezzogiorno",
                   "pm": "PM",
-                  "morning1": "mattina",
-                  "afternoon1": "pomeriggio",
-                  "evening1": "sera",
-                  "night1": "notte"
+                  "morning1": "di mattina",
+                  "afternoon1": "del pomeriggio",
+                  "evening1": "di sera",
+                  "night1": "di notte"
                 },
                 "narrow": {
                   "midnight": "mezzanotte",
@@ -255,10 +255,10 @@
                   "am": "AM",
                   "noon": "mezzogiorno",
                   "pm": "PM",
-                  "morning1": "mattina",
-                  "afternoon1": "pomeriggio",
-                  "evening1": "sera",
-                  "night1": "notte"
+                  "morning1": "di mattina",
+                  "afternoon1": "del pomeriggio",
+                  "evening1": "di sera",
+                  "night1": "di notte"
                 }
               },
               "stand-alone": {
