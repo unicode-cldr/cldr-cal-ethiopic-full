@@ -3,8 +3,8 @@
     "nl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "nl"
       },
@@ -233,10 +233,10 @@
                   "midnight": "middernacht",
                   "am": "a.m.",
                   "pm": "p.m.",
-                  "morning1": "ochtend",
-                  "afternoon1": "middag",
-                  "evening1": "avond",
-                  "night1": "nacht"
+                  "morning1": "‘s ochtends",
+                  "afternoon1": "‘s middags",
+                  "evening1": "‘s avonds",
+                  "night1": "‘s nachts"
                 },
                 "narrow": {
                   "midnight": "middernacht",
@@ -289,16 +289,16 @@
             },
             "eras": {
               "eraNames": {
-                "0": "ERA0",
-                "1": "ERA1"
+                "0": "tijdperk 0",
+                "1": "tijdperk 1"
               },
               "eraAbbr": {
-                "0": "ERA0",
-                "1": "ERA1"
+                "0": "era 0",
+                "1": "era 1"
               },
               "eraNarrow": {
-                "0": "ERA0",
-                "1": "ERA1"
+                "0": "era 0",
+                "1": "era 1"
               }
             },
             "dateFormats": {
@@ -319,8 +319,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
