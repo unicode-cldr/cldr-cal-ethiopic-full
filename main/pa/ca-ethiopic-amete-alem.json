@@ -3,8 +3,8 @@
     "pa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14820 $",
+          "_cldrVersion": "35"
         },
         "language": "pa"
       },
@@ -103,7 +103,7 @@
                   "10": "ਸੀਨ",
                   "11": "ਹਮਲੇ",
                   "12": "ਨੇਹਾਸੇ",
-                  "13": "Pagumen"
+                  "13": "ਪਾਗੂਮੇਨ"
                 }
               }
             },
@@ -375,6 +375,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d – d"
                 },
