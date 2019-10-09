@@ -3,8 +3,7 @@
     "zh-Hans-SG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "zh",
         "script": "Hans",
@@ -307,12 +306,12 @@
                 "1": "埃塞俄比亚历"
               },
               "eraAbbr": {
-                "0": "ERA0",
-                "1": "ERA1"
+                "0": "埃历前",
+                "1": "埃历"
               },
               "eraNarrow": {
-                "0": "ERA0",
-                "1": "ERA1"
+                "0": "埃历前",
+                "1": "埃历"
               }
             },
             "dateFormats": {
