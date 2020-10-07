@@ -1,15 +1,16 @@
 {
   "main": {
-    "prg": {
+    "su-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
-        "language": "prg"
+        "language": "su",
+        "script": "Latn"
       },
       "dates": {
         "calendars": {
-          "ethiopic-amete-alem": {
+          "ethiopic": {
             "months": {
               "format": {
                 "abbreviated": {
@@ -109,88 +110,88 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Sun",
-                  "mon": "Mon",
-                  "tue": "Tue",
-                  "wed": "Wed",
-                  "thu": "Thu",
-                  "fri": "Fri",
-                  "sat": "Sat"
+                  "sun": "Mng",
+                  "mon": "Sen",
+                  "tue": "Sal",
+                  "wed": "Reb",
+                  "thu": "Kem",
+                  "fri": "Jum",
+                  "sat": "Sap"
                 },
                 "narrow": {
-                  "sun": "S",
-                  "mon": "M",
-                  "tue": "T",
-                  "wed": "W",
-                  "thu": "T",
-                  "fri": "F",
+                  "sun": "M",
+                  "mon": "S",
+                  "tue": "S",
+                  "wed": "R",
+                  "thu": "K",
+                  "fri": "J",
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "Sun",
-                  "mon": "Mon",
-                  "tue": "Tue",
-                  "wed": "Wed",
-                  "thu": "Thu",
-                  "fri": "Fri",
-                  "sat": "Sat"
+                  "sun": "Mng",
+                  "mon": "Sen",
+                  "tue": "Sal",
+                  "wed": "Reb",
+                  "thu": "Kem",
+                  "fri": "Jum",
+                  "sat": "Sap"
                 },
                 "wide": {
-                  "sun": "Sun",
-                  "mon": "Mon",
-                  "tue": "Tue",
-                  "wed": "Wed",
-                  "thu": "Thu",
-                  "fri": "Fri",
-                  "sat": "Sat"
+                  "sun": "Minggu",
+                  "mon": "Senén",
+                  "tue": "Salasa",
+                  "wed": "Rebo",
+                  "thu": "Kemis",
+                  "fri": "Jumaah",
+                  "sat": "Saptu"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Sun",
-                  "mon": "Mon",
-                  "tue": "Tue",
-                  "wed": "Wed",
-                  "thu": "Thu",
-                  "fri": "Fri",
-                  "sat": "Sat"
+                  "sun": "Mng",
+                  "mon": "Sen",
+                  "tue": "Sal",
+                  "wed": "Reb",
+                  "thu": "Kem",
+                  "fri": "Jum",
+                  "sat": "Sap"
                 },
                 "narrow": {
-                  "sun": "S",
-                  "mon": "M",
-                  "tue": "T",
-                  "wed": "W",
-                  "thu": "T",
-                  "fri": "F",
+                  "sun": "M",
+                  "mon": "S",
+                  "tue": "S",
+                  "wed": "R",
+                  "thu": "K",
+                  "fri": "J",
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "Sun",
-                  "mon": "Mon",
-                  "tue": "Tue",
-                  "wed": "Wed",
-                  "thu": "Thu",
-                  "fri": "Fri",
-                  "sat": "Sat"
+                  "sun": "Mng",
+                  "mon": "Sen",
+                  "tue": "Sal",
+                  "wed": "Reb",
+                  "thu": "Kem",
+                  "fri": "Jum",
+                  "sat": "Sap"
                 },
                 "wide": {
-                  "sun": "Sun",
-                  "mon": "Mon",
-                  "tue": "Tue",
-                  "wed": "Wed",
-                  "thu": "Thu",
-                  "fri": "Fri",
-                  "sat": "Sat"
+                  "sun": "Minggu",
+                  "mon": "Senén",
+                  "tue": "Salasa",
+                  "wed": "Rebo",
+                  "thu": "Kemis",
+                  "fri": "Jumaah",
+                  "sat": "Saptu"
                 }
               }
             },
             "quarters": {
               "format": {
                 "abbreviated": {
-                  "1": "Q1",
-                  "2": "Q2",
-                  "3": "Q3",
-                  "4": "Q4"
+                  "1": "K1",
+                  "2": "K2",
+                  "3": "K3",
+                  "4": "K4"
                 },
                 "narrow": {
                   "1": "1",
@@ -199,18 +200,18 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "Q1",
-                  "2": "Q2",
-                  "3": "Q3",
-                  "4": "Q4"
+                  "1": "kuartal ka-1",
+                  "2": "kuartal ka-2",
+                  "3": "kuartal ka-3",
+                  "4": "kuartal ka-4"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "Q1",
-                  "2": "Q2",
-                  "3": "Q3",
-                  "4": "Q4"
+                  "1": "K1",
+                  "2": "K2",
+                  "3": "K3",
+                  "4": "K4"
                 },
                 "narrow": {
                   "1": "1",
@@ -219,10 +220,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "Q1",
-                  "2": "Q2",
-                  "3": "Q3",
-                  "4": "Q4"
+                  "1": "kuartal ka-1",
+                  "2": "kuartal ka-2",
+                  "3": "kuartal ka-3",
+                  "4": "kuartal-ka 4"
                 }
               }
             },
@@ -258,32 +259,35 @@
             },
             "eras": {
               "eraNames": {
-                "0": "ERA0"
+                "0": "ERA0",
+                "1": "ERA1"
               },
               "eraAbbr": {
-                "0": "ERA0"
+                "0": "ERA0",
+                "1": "ERA1"
               },
               "eraNarrow": {
-                "0": "ERA0"
+                "0": "ERA0",
+                "1": "ERA1"
               }
             },
             "dateFormats": {
-              "full": "G y MMMM d, EEEE",
-              "long": "G y MMMM d",
-              "medium": "G y MMM d",
-              "short": "GGGGG y-MM-dd"
+              "full": "EEEE, d MMMM y G",
+              "long": "d MMMM y G",
+              "medium": "d MMM y G",
+              "short": "d/M/y GGGGG"
             },
             "timeFormats": {
-              "full": "HH:mm:ss zzzz",
-              "long": "HH:mm:ss z",
-              "medium": "HH:mm:ss",
-              "short": "HH:mm"
+              "full": "H.mm.ss zzzz",
+              "long": "H.mm.ss z",
+              "medium": "H.mm.ss",
+              "short": "H.mm"
             },
             "dateTimeFormats": {
-              "full": "{1} {0}",
-              "long": "{1} {0}",
-              "medium": "{1} {0}",
-              "short": "{1} {0}",
+              "full": "{1} 'jam' {0}",
+              "long": "{1} 'jam' {0}",
+              "medium": "{1}, {0}",
+              "short": "{1}, {0}",
               "availableFormats": {
                 "Bh": "h B",
                 "Bhm": "h:mm B",

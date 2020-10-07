@@ -3,7 +3,7 @@
     "mk": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "mk"
       },
@@ -234,8 +234,8 @@
                   "noon": "напладне",
                   "pm": "попл.",
                   "morning1": "наутро",
-                  "morning2": "претпл.",
-                  "afternoon1": "попл.",
+                  "morning2": "претпладне",
+                  "afternoon1": "попладне",
                   "evening1": "навечер",
                   "night1": "ноќе"
                 },

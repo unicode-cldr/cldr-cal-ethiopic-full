@@ -3,7 +3,7 @@
     "mr": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "mr"
       },
@@ -230,9 +230,9 @@
               "format": {
                 "abbreviated": {
                   "midnight": "मध्यरात्र",
-                  "am": "म.पू.",
+                  "am": "AM",
                   "noon": "मध्यान्ह",
-                  "pm": "म.उ.",
+                  "pm": "PM",
                   "morning1": "पहाट",
                   "morning2": "सकाळ",
                   "afternoon1": "दुपार",
@@ -242,9 +242,9 @@
                 },
                 "narrow": {
                   "midnight": "म.रा.",
-                  "am": "स",
+                  "am": "a",
                   "noon": "दु",
-                  "pm": "सं",
+                  "pm": "p",
                   "morning1": "प",
                   "morning2": "स",
                   "afternoon1": "दु",
@@ -254,9 +254,9 @@
                 },
                 "wide": {
                   "midnight": "मध्यरात्र",
-                  "am": "म.पू.",
+                  "am": "AM",
                   "noon": "मध्यान्ह",
-                  "pm": "म.उ.",
+                  "pm": "PM",
                   "morning1": "पहाट",
                   "morning2": "सकाळ",
                   "afternoon1": "दुपार",
@@ -268,9 +268,9 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "मध्यरात्र",
-                  "am": "म.पू.",
+                  "am": "AM",
                   "noon": "मध्यान्ह",
-                  "pm": "म.उ.",
+                  "pm": "PM",
                   "morning1": "पहाट",
                   "morning2": "सकाळ",
                   "afternoon1": "दुपार",
@@ -280,9 +280,9 @@
                 },
                 "narrow": {
                   "midnight": "म.रा.",
-                  "am": "म.पू.",
+                  "am": "AM",
                   "noon": "म",
-                  "pm": "म.उ.",
+                  "pm": "PM",
                   "morning1": "प",
                   "morning2": "स",
                   "afternoon1": "दु",
@@ -292,9 +292,9 @@
                 },
                 "wide": {
                   "midnight": "मध्यरात्र",
-                  "am": "म.पू.",
+                  "am": "AM",
                   "noon": "मध्यान्ह",
-                  "pm": "म.उ.",
+                  "pm": "PM",
                   "morning1": "पहाट",
                   "morning2": "सकाळ",
                   "afternoon1": "दुपार",
